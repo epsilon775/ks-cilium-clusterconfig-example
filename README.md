@@ -1,0 +1,1 @@
+# ks-cilium-clusterconfig-example
